@@ -1,4 +1,4 @@
-# Projecy Unity
+# Project Unity
 ## Matakuliah Pemrograman Permainan
 Repositori untuk project unity matakuliah Pemrograman Permainan
 
